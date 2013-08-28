@@ -1,4 +1,4 @@
-Xamarin-Syntax-Highlighting
-===========================
+Xamarin Studio Syntax Highlighting
+==================================
 
-Themes to use with Xamarin Studio syntax highlighting feature
+This repository will host themes to be used with the syntax highlighting feature of Xamarin Studio.
